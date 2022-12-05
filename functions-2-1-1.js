@@ -166,3 +166,16 @@ filterLongWords = (arr, i) => {
   console.log(wordsToFilter)
 };
 filterLongWords(someLongWords, 5)
+
+
+/*Self Evaluation
+
+Persistence: Do you handle frustration well? Yes and no. I feel like I try to push on instead of taking breaks
+Do you independently pursue understanding? Yes! I google a lot so I can see different methods. 
+Organization: Do you thoughtfully implement best coding patterns and practices? Not really. I need a system of doing this
+Collaboration: Do you make an effort solve problems and share your ideas with others? Yes
+Communication: Do you clearly convey your thoughts to others in illustrative and clear ways? I hope so, but I'm not sure what you mean exactly with this question
+Self-compassion: Do you make productive use of turning failures into learning opportunities? yes
+Resourcefulness: Do make an effort to compare and contrast new ideas with ones you already know? 
+Yes! I try to one up on my code all the time to be more efficient and less lines. 
+*/
